@@ -1,4 +1,6 @@
 # README.md
 
-https://akademi.robolinkmarket.com/wp-content/uploads/2021/01/Arduino-LiquidCrystal-I2C-library-master.zip
-sdlkasdjlasjkd
+
+
+
+https://downloads.arduino.cc/libraries/github.com/adafruit/DHT_sensor_library-1.4.4.zip
